@@ -35,4 +35,22 @@ header{
   color:#bcdc3c7;
   font-family:Arial,sans-serif;
   text-align:content:center;
+  height:100px;
+  margin:0;
+  border:none;
+  widrh:100%
+  display:flex;
+  align-items:certer;
+  Justify-conrent:center;
+}
+html,body {
+  morgin:0;
+  padding:0;
+} 
+{
+morgin:0;
+  padding:0;
+  box-sizing:border-box;
+  
+  
   
